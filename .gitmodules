@@ -1,0 +1,6 @@
+[submodule "Social-Soseol-front"]
+	path = Social-Soseol-front
+	url = https://github.com/vgihan/Social-Soseol-front.git
+[submodule "Social-Soseol-backend"]
+	path = Social-Soseol-backend
+	url = https://github.com/jhl8109/Social-Soseol-backend.git
