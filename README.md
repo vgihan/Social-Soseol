@@ -1,6 +1,9 @@
-# Social-Soseol
+<h1 align='center'>Social Soseol</h1>
+<div align='center'>
+   <img src='https://user-images.githubusercontent.com/49841765/160557762-770bcbf3-8ea4-4333-bf1d-b8672ec8fd18.png' />
+   <br/>
+</div>
 
-📖 사회가 소설을 만든다 📖
 
 ## Notion
 
